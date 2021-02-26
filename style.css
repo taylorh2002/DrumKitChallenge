@@ -1,0 +1,37 @@
+
+h1
+{ 
+    text-align: center;
+    margin: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.main
+{
+    display: flex;
+    justify-content: space-around;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 125%;
+}
+
+.drum
+{
+    display: flex;
+    justify-content: space-around;
+    flex-direction:column;
+    flex-wrap: wrap;
+    text-align: center;
+    padding: 2PX;
+}
+
+h2
+{ 
+    text-align: center;
+    margin: 15%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 400%;
+
+}
+
+
