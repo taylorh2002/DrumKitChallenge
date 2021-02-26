@@ -51,6 +51,6 @@ window.addEventListener('keydown', function(key)
       output.innerHTML = "TOM";
       break;
     default:
-      console.log("Wrong input")
+      console.log("Wrong input")  
   }
 });

@@ -1,9 +1,18 @@
+body
+{
+    background-color: blanchedalmond;
+}
+
 
 h1
 { 
     text-align: center;
     margin: 5%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 400%;
+    color: darksalmon;
+    -webkit-text-stroke: 2px black;
+
 
 }
 
@@ -12,7 +21,7 @@ h1
     display: flex;
     justify-content: space-around;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 125%;
+    font-size: 150%;
 }
 
 .drum
@@ -22,7 +31,11 @@ h1
     flex-direction:column;
     flex-wrap: wrap;
     text-align: center;
-    padding: 2PX;
+    border-style: solid;
+    border-color: black;
+    width: 10%;
+    background-color:darksalmon;
+    color: white;
 }
 
 h2
@@ -31,6 +44,8 @@ h2
     margin: 15%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 400%;
+    color: darksalmon;
+    -webkit-text-stroke: 2px black;
 
 }
 
